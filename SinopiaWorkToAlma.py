@@ -6,8 +6,8 @@ from name_space.alma_ns import alma_namespaces
 from copy import deepcopy
 
 # Define URIs and API key
-work_uri = "https://api.stage.sinopia.io/resource/e0566447-f20a-46b7-a668-7ea7e1d11321"
-instance_uri = "https://api.stage.sinopia.io/resource/70467908-9173-48ac-b476-03dac2bfc72f"
+work_uri = [work uri]
+instance_uri = [instance uri]
 alma_api_key = [YOUR API KEY]
 uri_region = [YOUR REGION]
 
