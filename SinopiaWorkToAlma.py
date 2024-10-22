@@ -6,10 +6,10 @@ from name_space.alma_ns import alma_namespaces
 from copy import deepcopy
 
 # Define URIs and API key
-work_uri = [work uri]
-instance_uri = [instance uri]
-alma_api_key = [YOUR API KEY]
-uri_region = [YOUR REGION]
+work_uri = "Your_Work_URI"
+instance_uri = "Your_Instance_URI"
+alma_api_key = "Your_API_Key"
+uri_region = "Your_region"
 
 work_uri = URIRef(work_uri)
 print(work_uri)
