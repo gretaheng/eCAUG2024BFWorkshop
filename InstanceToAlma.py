@@ -1,10 +1,9 @@
-instance_uri = "https://api.stage.sinopia.io/resource/70467908-9173-48ac-b476-03dac2bfc72f"
+instance_uri = "Your_Instance_URI"
 # change the instance_uri to the URI of the instance that you want to serialize for Alma RDF/XML.
 # add api key and region for posting the resource to Alma
 # https://github.com/LD4P/ils-middleware/wiki/Alma-APIs-in-Airflow
-
-alma_api_key = "l8xxfeb00ad247e44c189a3ba9b282a2e222"
-uri_region = "https://api-na.hosted.exlibrisgroup.com"
+alma_api_key = "Your_API_Key"
+uri_region = "Your_URI_Region"
 
 import requests
 from rdflib import Graph, Namespace, URIRef
