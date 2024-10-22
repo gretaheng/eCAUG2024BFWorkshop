@@ -8,8 +8,8 @@ from copy import deepcopy
 # Define URIs and API key
 work_uri = "https://api.stage.sinopia.io/resource/e0566447-f20a-46b7-a668-7ea7e1d11321"
 instance_uri = "https://api.stage.sinopia.io/resource/70467908-9173-48ac-b476-03dac2bfc72f"
-alma_api_key = "l8xxfeb00ad247e44c189a3ba9b282a2e222"
-uri_region = "https://api-na.hosted.exlibrisgroup.com"
+alma_api_key = [YOUR API KEY]
+uri_region = [YOUR REGION]
 
 work_uri = URIRef(work_uri)
 print(work_uri)
